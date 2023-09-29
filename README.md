@@ -12,7 +12,7 @@
 
 <!-- Badges / Stats Section -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide=contribs" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=nelsonblack&show_icons=true&hide=contribs" alt="GitHub Stats">
 </p>
 
 <!-- Social Icons Section -->
