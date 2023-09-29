@@ -1,19 +1,13 @@
 <!-- Header Section -->
 <h1 align="center" style="color: #333;">Nelson Bwogora</h1>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/13407936?v=4" alt="Profile Picture" width="150" height="150" class="profile-picture" style="border: 4px solid #555; border-radius: 50%;">
-</p>
+
 
 <p align="center" style="font-size: 18px; color: #555;">
   Full Stack Developer | Open-Source Enthusiast<br>
   Focused on NodeJs, Google | Flutter | Dart | GraphQL | NestJs | Angular | VueJS | Learning | Elixir
 </p>
 
-<!-- Badges / Stats Section -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nelsonblack&show_icons=true&hide=contribs" alt="GitHub Stats">
-</p>
 
 <!-- Social Icons Section -->
 <p align="center" class="social-icons">
