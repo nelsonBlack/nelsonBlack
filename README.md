@@ -33,15 +33,16 @@
 </p>
 
 <!-- Fun Fact Section -->
-<h2>Fun Fact</h2>
+<h2>---------------------------------------------------------------------</h2>
 
 <p style="font-size: 18px; color: #555;">
-  I once wrote a program that generated random programming jokes, but it got stuck in an infinite loop... Guess you could say it had too much recursion!
-</p>
+"Doing what you love is the cornerstone of having abundance in your life."</p>
+
+<p>Alan Watts</p>
 
 <!-- GitHub Stars Section -->
 <p align="center">
-  <img src="https://img.shields.io/github/stars/yourusername?style=social" alt="GitHub Stars">
+  <img src="https://img.shields.io/github/stars/nelsonblack?style=social" alt="GitHub Stars">
 </p>
 
 <!-- Footer Section -->
