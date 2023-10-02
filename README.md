@@ -29,7 +29,7 @@
 <h2 class="featured-repos">Featured Repositories</h2>
 
 <p style="font-size: 18px; color: #555;">
-  You can find my featured repositories at the top of my <a href="https://github.com/yourusername" style="color: #555;">GitHub profile</a>.
+  You can find my featured repositories and open source projects I have contributed to at the top of my <a href="https://github.com/yourusername" style="color: #555;">GitHub profile</a>.
 </p>
 
 <!-- Fun Fact Section -->
